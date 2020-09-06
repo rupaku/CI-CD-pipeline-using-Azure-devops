@@ -7,19 +7,19 @@
 #pip install python-dotenv
 #flask run
 
-# Azure-Pipeline setup:
+#Azure-Pipeline setup:
 
-## https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python?view=azure-devops
+#https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python?view=azure-devops
 
 #Create project
 #create pipeline select github repo
 
-# select repo
+#select repo
 
-# select python package
+#select python package
 
-# install
+#install
 
-# azure_pipeline.yaml file created
+#azure_pipeline.yaml file created
 
-# save and run
+#save and run
